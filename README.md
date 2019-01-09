@@ -7,6 +7,6 @@ Collection of small JS snippets
 
 - Go into the directory which you want to run
 
-- Start the http-server with `http-server`
+- If folder contains an index.html file, start the http-server with `http-server` and open the URL in the browser
 
-- Open the http-server URL in the browser
+- If folder contains just a js file, run it with `node <filename.js>`
